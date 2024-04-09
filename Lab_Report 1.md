@@ -15,4 +15,4 @@
    * `ls`: I got the output `es_txt.md` because I told the command to list everything about the file `es_txt.md`, and it was just able to display what it knows about the file, which is its title. This is not an error because `ls` doesn't only provide directory content, but it also gives information about files, and I instructed it to list all the information about `es_txt.md`.
    * `cat` : I got the output `Hola Mundo!!` because I told the command to display everything inside the file `es_txt.md`, and that was what was inside the file. This was not an error because `cat` received the name of a file, and it was able to align it with its intended functionality.
 
-![Image](png2pdf.pdf)
+![Image](png2pdf.jpg)
